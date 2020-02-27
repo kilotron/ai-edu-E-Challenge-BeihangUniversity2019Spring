@@ -1,0 +1,2 @@
+# ai-edu-E-Challenge-BeihangUniversity2019Spring
+Kilotron的北航2019年春季学期计算机科学前沿讲座作业
